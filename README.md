@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+---
+
+Nama: Tyase Nisa'an Jamilaa
+
+Kelas: 3H
+
+Absen: 26
+
 ## Getting Started
 
 ## **Create your first Flutter project**
